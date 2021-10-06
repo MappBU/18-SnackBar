@@ -30,6 +30,7 @@
                 android:layout_height="match_parent"
                 android:background="@drawable/baner">
 
+                <!--Обработка клика осуществляется как и с Чекбоксом-->
                 <com.google.android.material.checkbox.MaterialCheckBox
                     android:id="@+id/icon"
                     android:layout_width="wrap_content"

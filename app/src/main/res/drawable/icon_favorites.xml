@@ -8,5 +8,6 @@
         android:drawable="@drawable/favorite_passive"
         android:state_checked="false"
         />
+    <!--Иконка по умолчанию-->
     <item android:drawable="@drawable/favorite_passive" />
 </selector>
